@@ -19,7 +19,7 @@
     "lint": "vue-cli-service lint",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "chromatic": "yarn chromatic --project-token 632f35b30cad"
+    "chromatic": "npx chromatic --project-token 632f35b30cad"
   },
   "dependencies": {
     "core-js": "^3.6.5",
